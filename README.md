@@ -1,48 +1,48 @@
 # FunCaptcha Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-unlocker/captcha-solver/funcaptcha)
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/funcaptcha)
 
-Effortlessly bypass FunCaptchas with Bright Data's advanced CAPTCHA-solving technology. Leverage machine-learning algorithms, [automated IP rotation](https://brightdata.com/solutions/rotating-proxies), and a robust proxy infrastructure to ensure seamless and consistent access to target sites.  
+Bright Data の高度な CAPTCHA 解決技術で FunCaptcha を簡単に回避できます。機械学習アルゴリズム、[自動 IP ローテーション](https://brightdata.jp/solutions/rotating-proxies)、堅牢なプロキシインフラを活用し、ターゲットサイトへのシームレスで一貫したアクセスを実現します。  
 
-Bright Data’s CAPTCHA Solver is a built-in feature of our [**Scraping Browser**](https://brightdata.com/products/scraping-browser) and [**Web Unlocker API**](https://brightdata.com/products/web-unlocker), offering a complete solution for handling even the most complex CAPTCHA challenges.  
+Bright Data の CAPTCHA Solver は、[**Scraping Browser**](https://brightdata.jp/products/scraping-browser) および [**Web Unlocker API**](https://brightdata.jp/products/web-unlocker) に組み込まれた機能であり、最も複雑な CAPTCHA チャレンジにも対応する完全なソリューションを提供します。  
 
 
 ## Features  
-- **Rapid CAPTCHA Solving**: Automatically solve FunCaptchas with high accuracy and speed.  
-- **IP Rotation**: Avoid bans with automated retries and dynamic IP adjustments.  
-- **Browser Fingerprinting**: Mimic real user activity to [bypass sophisticated bot detection](https://brightdata.com/blog/web-data/anti-scraping-techniques).  
-- **JavaScript Rendering**: Handle dynamic content on JavaScript-heavy sites.  
-- **Worldwide Geo-Coverage**: Unlock content from any global region with pinpoint precision.  
-- **Seamless Integration**: Works effortlessly with tools like Puppeteer, Playwright, and Selenium.  
-- **Event Monitoring**: Track CAPTCHA-solving events like detection, success, or failure.  
+- **迅速な CAPTCHA 解決**: 高い精度と速度で FunCaptcha を自動的に解決します。  
+- **IP Rotation**: 自動リトライと動的な IP 調整により、BAN を回避します。  
+- **ブラウザフィンガープリント**: 実ユーザーの挙動を模倣し、[高度なボット検知の回避](https://brightdata.jp/blog/web-data/anti-scraping-techniques)を実現します。  
+- **JavaScript レンダリング**: JavaScript を多用するサイトの動的コンテンツに対応します。  
+- **世界中のジオカバレッジ**: きわめて高精度に、世界中の任意の地域からコンテンツをアンロックします。  
+- **シームレスな統合**: Puppeteer、Playwright、Selenium などのツールと簡単に連携します。  
+- **イベント監視**: 検知、成功、失敗などの CAPTCHA 解決イベントを追跡します。  
 
 ## Why Choose FunCaptcha Solver  
 
-### **Trusted by 20,000+ Customers Worldwide**  
-Bright Data’s CAPTCHA Solver is trusted by developers, businesses, and enterprises for its unmatched reliability and performance.  
+### **世界中の 20,000+ のお客様に信頼されています**  
+Bright Data の CAPTCHA Solver は、その比類ない信頼性とパフォーマンスにより、開発者、企業、エンタープライズのお客様から信頼されています。  
 
-### **Powered by a Premium Proxy Network**  
-With over 100M IPs and advanced geo-targeting capabilities, our proxy infrastructure ensures smooth and uninterrupted CAPTCHA solving.  
+### **プレミアムプロキシネットワークを基盤にしています**  
+1億超の IP と高度なジオターゲティング機能により、当社のプロキシインフラはスムーズで中断のない CAPTCHA 解決を実現します。  
 
-### **AI-Driven CAPTCHA Solving**  
-Our CAPTCHA Solver uses advanced AI-based logic to detect, analyze, and solve CAPTCHAs automatically. It handles retries, fingerprinting, and headers to bypass even the most sophisticated anti-bot measures.  
+### **AI 駆動の CAPTCHA 解決**  
+当社の CAPTCHA Solver は高度な AI ベースのロジックを使用して、CAPTCHA を自動で検知・解析・解決します。リトライ、フィンガープリント、ヘッダー処理を行い、最も高度なアンチボット対策さえ回避します。  
 
-### **Built for Developers**  
-- Easy integration with Puppeteer, Playwright, and Selenium.  
-- Fully customizable settings for CAPTCHA-solving behavior.  
-- Automatic retries and dynamic IP adjustments for uninterrupted scraping.
+### **開発者向けに設計されています**  
+- Puppeteer、Playwright、Selenium と簡単に連携できます。  
+- CAPTCHA 解決の挙動を完全にカスタマイズ可能な設定を提供します。  
+- 中断のないスクレイピングのための自動リトライと動的 IP 調整を行います。
 
 > **Pro Tip 💡**
->> Already have a CAPTCHA-solving setup? Enhance it with our proxies for [Puppeteer](https://brightdata.com/integration/puppeteer), [Playwright](https://brightdata.com/integration/playwright), and [Selenium](https://brightdata.com/integration/selenium) to minimize CAPTCHA challenges.
+>> すでに CAPTCHA 解決の仕組みをお持ちですか？ [Puppeteer](https://brightdata.jp/integration/puppeteer)、[Playwright](https://brightdata.jp/integration/playwright)、[Selenium](https://brightdata.jp/integration/selenium) 向けの当社プロキシで強化し、CAPTCHA チャレンジを最小化しましょう。
 
 ## How It Works  
 
-Bright Data’s CAPTCHA Solver is integrated into the **Scraping Browser** and **Web Unlocker**, making CAPTCHA solving effortless.  
+Bright Data の CAPTCHA Solver は **Scraping Browser** と **Web Unlocker** に統合されており、CAPTCHA 解決を容易にします。  
 
-### **Automatic CAPTCHA Solving**  
-The CAPTCHA Solver automatically detects and resolves CAPTCHAs in real-time. Simply enable the feature, and it will handle everything from detection to solving. 
+### **自動 CAPTCHA 解決**  
+CAPTCHA Solver は CAPTCHA をリアルタイムに自動検知し、解決します。機能を有効化するだけで、検知から解決までをすべて処理します。 
 
-### **Custom Options for FunCaptcha Challenges**  
+### **FunCaptcha チャレンジ向けのカスタムオプション**  
 ```javascript
 // Define default options for different CAPTCHA types
 function getCaptchaOptions(captchaType, customOptions = {}) {
@@ -102,73 +102,73 @@ try {
 ```
 
 #### Example Workflow:  
-1. **Detect CAPTCHA**: The solver identifies the CAPTCHA type (e.g., PerimeterX).  
-2. **Solve CAPTCHA**: Using AI-based logic, the solver resolves the CAPTCHA.  
-3. **Retry on Failure**: If solving fails, the system automatically retries with a new IP.  
-4. **Return Results**: Once solved, the system provides seamless access to the target site.  
+1. **CAPTCHA を検知**: solver が CAPTCHA の種類（例: PerimeterX）を特定します。  
+2. **CAPTCHA を解決**: AI ベースのロジックを使用して、solver が CAPTCHA を解決します。  
+3. **失敗時にリトライ**: 解決に失敗した場合、システムは新しい IP で自動的にリトライします。  
+4. **結果を返却**: 解決後、システムがターゲットサイトへのシームレスなアクセスを提供します。  
 
 ## Supported CAPTCHA Types  
 
-Bright Data’s CAPTCHA Solver supports a wide range of CAPTCHA types, including:  
+Bright Data の CAPTCHA Solver は、以下を含む幅広い CAPTCHA タイプに対応しています。  
 
-- [**DataDome**](https://brightdata.com/products/web-unlocker/captcha-solver/datadome)
-- [**reCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/recaptcha)
-- [**Click Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/click-captcha)
-- [**Cloudflare**](https://brightdata.com/products/web-unlocker/captcha-solver/Cloudflare)
-- [**PerimeterX**](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)
-- [**SimpleCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/simplecaptcha)
-- [**FunCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/funcaptcha)
-- [**Cloudflare Turnstile**](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)
-- [**AWS WAF Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/aws-waf-captcha)
-- [**GeeTest CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/geetest-captcha)
-- [**KeyCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/keycaptcha)
-- [**Puzzle CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/puzzle-captcha)
-- [**Yandex CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/yandex-captcha)
-- [**Image CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/image-captcha)
-- [**Text CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/text-captcha)
+- [**DataDome**](https://brightdata.jp/products/web-unlocker/captcha-solver/datadome)
+- [**reCAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/recaptcha)
+- [**Click Captcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/click-captcha)
+- [**Cloudflare**](https://brightdata.jp/products/web-unlocker/captcha-solver/Cloudflare)
+- [**PerimeterX**](https://brightdata.jp/products/web-unlocker/captcha-solver/perimeterx)
+- [**SimpleCaptcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/simplecaptcha)
+- [**FunCaptcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/funcaptcha)
+- [**Cloudflare Turnstile**](https://brightdata.jp/products/web-unlocker/captcha-solver/cloudflare-turnstile)
+- [**AWS WAF Captcha**](https://brightdata.jp/products/web-unlocker/captcha-solver/aws-waf-captcha)
+- [**GeeTest CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/geetest-captcha)
+- [**KeyCAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/keycaptcha)
+- [**Puzzle CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/puzzle-captcha)
+- [**Yandex CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/yandex-captcha)
+- [**Image CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/image-captcha)
+- [**Text CAPTCHA**](https://brightdata.jp/products/web-unlocker/captcha-solver/text-captcha)
 
 ## Advanced Customization  
 
-[Bright Data’s CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver) allows for advanced customization to fine-tune solving logic for specific scenarios.
+[Bright Data の CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver) は、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
 
 ## **Event Monitoring**  
-Track CAPTCHA-solving events to handle advanced use cases:  
-- `Captcha.detected`: CAPTCHA detected and solving has started.  
-- `Captcha.solveFinished`: CAPTCHA solved successfully.  
-- `Captcha.solveFailed`: CAPTCHA solving failed.  
+CAPTCHA 解決イベントを追跡して、高度なユースケースに対応します。  
+- `Captcha.detected`: CAPTCHA が検知され、解決が開始されました。  
+- `Captcha.solveFinished`: CAPTCHA が正常に解決されました。  
+- `Captcha.solveFailed`: CAPTCHA の解決に失敗しました。  
 
 ## **Pricing**
 
 | **Plan**         | **Price (1K Results)** | **Monthly Cost** | **Description**                                  |  
 |-------------------|------------------------|------------------|------------------------------------------------|  
-| **Pay-as-you-go** | $1.50                 | No commitment    | Ideal for ad-hoc scraping needs.               |  
-| **Growth**        | $1.27                 | $499             | Tailored for scaling teams.                    |  
-| **Business**      | $1.12                 | $999             | Suitable for large-scale scraping operations.  |  
-| **Premium**       | $1.05                 | $1,999           | Advanced features with priority support.       |  
-| **Enterprise**    | Custom Quote          | Contact Us       | Custom packages for top-tier business needs.   |  
+| **Pay-as-you-go** | $1.50                 | No commitment    | スポット的なスクレイピングニーズに最適です。               |  
+| **Growth**        | $1.27                 | $499             | スケーリングするチーム向けに最適化されています。                    |  
+| **Business**      | $1.12                 | $999             | 大規模なスクレイピング運用に適しています。  |  
+| **Premium**       | $1.05                 | $1,999           | 優先サポート付きの高度な機能を提供します。       |  
+| **Enterprise**    | Custom Quote          | Contact Us       | 最上位のビジネス要件に向けたカスタムパッケージです。   |  
 
-🚀 **SPECIAL OFFER**: Match your first deposit dollar-for-dollar up to **$500**!  
+🚀 **SPECIAL OFFER**: 初回入金額を最大 **$500** まで 1 ドル単位で同額マッチします！  
 
 ## **Why Developers Love FunCaptcha Solver**  
-- **Easy Integration**: Works seamlessly with Puppeteer, Playwright, and Selenium.  
-- **Advanced AI-Based Logic**: Handles retries, CAPTCHA solving, fingerprinting, IP rotation, and advanced headers automatically.  
-- **Built-in Browser**: No need to manage external browsers for JavaScript rendering.  
-- **Real-Time Insights**: Monitor network performance via a live dashboard.  
-- **Unmatched Support**: 24/7 global customer support with new features added daily.  
+- **簡単な統合**: Puppeteer、Playwright、Selenium とシームレスに連携します。  
+- **高度な AI ベースのロジック**: リトライ、CAPTCHA 解決、フィンガープリント、IP ローテーション、高度なヘッダーを自動で処理します。  
+- **内蔵ブラウザ**: JavaScript レンダリングのために外部ブラウザを管理する必要がありません。  
+- **リアルタイムのインサイト**: ライブダッシュボードでネットワークパフォーマンスを監視できます。  
+- **比類ないサポート**: 24/7 のグローバルカスタマーサポートに加え、毎日新機能が追加されます。  
 
 ## **FAQ**  
 
-### **How does the FunCaptcha solver work?**  
-The solver uses advanced AI-based logic to detect and solve FunCaptchas automatically.  
+### **FunCaptcha solver はどのように動作しますか？**  
+solver は高度な AI ベースのロジックを使用して、FunCaptcha を自動的に検知・解決します。  
 
-### **Can it handle multiple CAPTCHAs simultaneously?**  
-Yes, the solution scales to handle multiple CAPTCHA types concurrently, ensuring uninterrupted access.  
+### **複数の CAPTCHA を同時に処理できますか？**  
+はい。本ソリューションは同時接続で複数の CAPTCHA タイプを処理できるようにスケールし、中断のないアクセスを確保します。  
 
-### **What happens if CAPTCHA solving fails?**  
-Retries are automatically attempted. If problems persist, contact our 24/7 support team to troubleshoot.  
+### **CAPTCHA の解決に失敗した場合はどうなりますか？**  
+リトライが自動的に試行されます。問題が継続する場合は、24/7 サポートチームまでお問い合わせいただき、トラブルシューティングを行ってください。  
 
 ---
 
 ## **Say Goodbye to FunCaptchas**  
-Start your free trial today and experience seamless [FunCaptcha solving with Bright Data!](https://brightdata.com/products/web-unlocker/captcha-solver/funcaptcha) 
+今すぐ無料トライアルを開始して、シームレスな [Bright Data による FunCaptcha solving を体験してください！](https://brightdata.jp/products/web-unlocker/captcha-solver/funcaptcha) 
 # funcaptcha-solver
