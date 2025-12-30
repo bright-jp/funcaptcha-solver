@@ -1,6 +1,6 @@
 # FunCaptcha Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/funcaptcha)
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/products/web-unlocker/captcha-solver/funcaptcha)
 
 Bright Data の高度な CAPTCHA 解決技術で FunCaptcha を簡単に回避できます。機械学習アルゴリズム、[自動 IP ローテーション](https://brightdata.jp/solutions/rotating-proxies)、堅牢なプロキシインフラを活用し、ターゲットサイトへのシームレスで一貫したアクセスを実現します。  
 
@@ -129,7 +129,7 @@ Bright Data の CAPTCHA Solver は、以下を含む幅広い CAPTCHA タイプ�
 
 ## Advanced Customization  
 
-[Bright Data の CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver) は、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
+[Bright Data の CAPTCHA Solver](https://github.com/bright-jp/Captcha-solver) は、高度なカスタマイズにより、特定のシナリオに合わせて解決ロジックを微調整できます。
 
 ## **Event Monitoring**  
 CAPTCHA 解決イベントを追跡して、高度なユースケースに対応します。  
